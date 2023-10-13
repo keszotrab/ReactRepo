@@ -2,8 +2,8 @@ git add -A
 git commit -m "Init"
 git push origin master
 
-
-
+https://education.github.com/git-cheat-sheet-education.pdf  //cheatsheet
+https://jsonplaceholder.typicode.com/  //cheatsheet
 
 # Getting Started with Create React App
 
